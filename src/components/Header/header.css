@@ -1,0 +1,32 @@
+.section-header {
+    width: 100%;
+    position: -webkit-sticky;
+    padding-bottom: 0px;
+    position: sticky;
+    top: 0px;
+    z-index: 99;
+    border-bottom-color: #e0e0e0;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #e0e0e0;
+    background: #fff;
+}
+
+.container {
+    z-index: 5;
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: flex-start;
+    grid-template-columns: 1fr;
+}
+.navbar {
+    background-color: #fff;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    width: 100%;
+    justify-content: space-around;
+    position: relative;
+    z-index: 1000;
+}
