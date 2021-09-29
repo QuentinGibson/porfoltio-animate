@@ -10,7 +10,7 @@ function Introduction() {
                         <div className="heading-accent"></div>
                     </div>
                     <p className="text-large is-thin">I am a developer based in Atlanta currently developing new and awesome Front-End react projects.</p>
-                    <p className="text-large is-thin">If you have any questions, feel free to <a href="mailto:quentingibson94@gmail.com">hit me up</a>. I’m available for things. I can do remote work too.</p>
+                    <p className="text-large is-thin">If you have any questions, feel free to <a href="mailto:quentingibson94@gmail.com">hit me up</a>. I’m available for work. I can do remote work too.</p>
                 </div>
             </div>
         </div>
